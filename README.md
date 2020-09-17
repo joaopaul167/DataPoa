@@ -1,5 +1,5 @@
 This is a project made in Angular for the Front-end exam, that shows all the data from the buses and lotations from Porto Alegre.
-In this project was used Angular 5+ and Bootstrap 3+.
+In this project was used Angular 5+(single page aplication), Bootstrap 3+(styling) and Docker(for building and containerizing the application).
 
 # Datapoa
 
