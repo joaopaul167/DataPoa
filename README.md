@@ -1,3 +1,6 @@
+This is a project made in Angular for the Front-end exam, that shows all the data from the buses and lotations from Porto Alegre.
+In this project was used Angular 5+ and Bootstrap 3+.
+
 # Datapoa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
