@@ -1,0 +1,12 @@
+a{
+    text-decoration:none;
+    color: black;
+
+}
+a:hover {
+    background-color: grey;
+    color:black
+}
+ul{
+    margin-bottom: 1rem;
+}

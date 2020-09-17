@@ -1,0 +1,21 @@
+  <table *ngIf="tables"
+          datatable
+    class="table row-border hover">
+    <thead class="thead-dark">
+      <tr>
+       <th >ID</th>
+       <th >Código</th>
+       <th >Nome</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let table of tables">
+        <td >{{table.id}}</td>
+        <td >{{table.codigo}}</td>
+        <td >{{table.nome}}</td>
+      </tr>
+    </tbody>
+  </table>
+
+
+ 
